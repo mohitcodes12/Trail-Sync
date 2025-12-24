@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///workspaces/Trail-Sync/components/app-shell.tsx"],"sourcesContent":["\"use client\"\n\nimport type React from \"react\"\n\nexport function AppShell({ children }: { children: React.ReactNode }) {\n  return <>{children}</>\n}\n"],"names":[],"mappings":";;;;;AAAA;;AAIO,SAAS,SAAS,EAAE,QAAQ,EAAiC;IAClE,qBAAO;kBAAG;;AACZ;KAFgB"}}]
+}

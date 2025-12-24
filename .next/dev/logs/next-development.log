@@ -1,0 +1,10 @@
+[00:00:01.589] Server  LOG      ✓ Ready in 1016ms
+[00:00:06.816] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.917] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:06.917] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:06.917] Browser LOG     %c[Vercel Web Analytics]%c [pageview] https://improved-couscous-97w5g9wv9wp4cpw9g-3000.app.github.dev/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"https://improved-couscous-97w5g9wv9wp4cpw9g-3000.app.github.dev/","r":"https://improved-couscous-97w5g9wv9wp4cpw9g.github.dev/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1766491841342}
+[00:00:09.827] Server  LOG      ○ Compiling /_not-found/page ...
+[00:00:14.014] Browser LOG     [v0] Sending AI guide message: hello
+[00:00:18.885] Browser LOG     [v0] AI guide response received
+[00:00:30.090] Browser LOG     [v0] Sending AI guide message: difference in treaking and hiing
+[00:00:43.462] Browser LOG     [v0] AI guide response received
